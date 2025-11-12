@@ -1,0 +1,1 @@
+pyinstaller -F run_log.py
